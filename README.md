@@ -1,2 +1,2 @@
 # qugo
-qugo.cc
+qugo INDEX
